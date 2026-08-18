@@ -1,0 +1,240 @@
+Added Component: Designator=A1(Arduino nano)
+Added Component: Designator=C1(CAP SMD ALUMINUM D8)
+Added Component: Designator=C2(SM-0805)
+Added Component: Designator=C3(CAP SMD ALUMINUM D8)
+Added Component: Designator=C4(CAP SMD ALUMINUM D8)
+Added Component: Designator=C5(SM-0805)
+Added Component: Designator=C6(SM-0805)
+Added Component: Designator=C7(CAP SMD ALUMINUM D8)
+Added Component: Designator=C8(SM-0805)
+Added Component: Designator=C9(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002807"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 100uF 35V 8x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=C10(SM-0805)
+Added Component: Designator=C11(SM-0805)
+Added Component: Designator=C12(SM-0805)
+Added Component: Designator=C13(SM-0805)
+Added Component: Designator=C14(SM-0805)
+Added Component: Designator=C15(SM-0805)
+Added Component: Designator=D1(DO-214AC)
+Add component (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AC)
+Add component (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED-3MM GRE)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDUCTOR SMD 7342 7.3X7.3X4.2mm)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=LS1(Coi Chip Speacker)
+Added Component: Designator=MD1(NRF24L01)
+Added Component: Designator=P1(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23B)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTOR SMD 0805)
+Added Component: Designator=R2(RESISTOR SMD 0805)
+Added Component: Designator=R3(RESISTOR SMD 0805)
+Added Component: Designator=R4(RESISTOR SMD 0805)
+Added Component: Designator=R5(RESISTOR SMD 0805)
+Added Component: Designator=R6(RESISTOR SMD 0805)
+Added Component: Designator=R7(RESISTOR SMD 0805)
+Added Component: Designator=R8(RESISTOR SMD 0805)
+Added Component: Designator=R9(RESISTOR SMD 0805)
+Added Component: Designator=SW2(MTS-102)
+Added Component: Designator=SW(MTS-102)
+Added Component: Designator=U1(SOP8)
+Added Component: Designator=U2(SOT223-4N)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Added Component: Designator=U3(XDCR_COM-09032)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "COM-09032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(XDCR_COM-09032)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "COM-09032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR1(Bien Tro Volume Don)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tri?t Áp Ðon B5K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=D3-1
+Added Pin To Net: NetName=+3.3V Pin=MD1-2
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=A1-29
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=LS1-1
+Added Pin To Net: NetName=+5V Pin=R4-1
+Added Pin To Net: NetName=+5V Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R7-1
+Added Pin To Net: NetName=+5V Pin=R8-1
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U3-H1
+Added Pin To Net: NetName=+5V Pin=U3-V1
+Added Pin To Net: NetName=+5V Pin=U4-H1
+Added Pin To Net: NetName=+5V Pin=U4-V1
+Added Pin To Net: NetName=+5V Pin=VR1-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=P1-1
+Added Pin To Net: NetName=+12V Pin=U1-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=BUZZ Pin=A1-4
+Added Pin To Net: NetName=BUZZ Pin=R2-2
+Added Net: Name=BUZZ
+Added Pin To Net: NetName=CE Pin=A1-11
+Added Pin To Net: NetName=CE Pin=MD1-3
+Added Net: Name=CE
+Added Pin To Net: NetName=CONF Pin=A1-5
+Added Pin To Net: NetName=CONF Pin=SW-3
+Added Net: Name=CONF
+Added Pin To Net: NetName=CSN Pin=A1-12
+Added Pin To Net: NetName=CSN Pin=MD1-4
+Added Net: Name=CSN
+Added Pin To Net: NetName=GND Pin=A1-3
+Added Pin To Net: NetName=GND Pin=A1-28
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=MD1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=SW-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-B2A
+Added Pin To Net: NetName=GND Pin=U3-H3
+Added Pin To Net: NetName=GND Pin=U3-S1
+Added Pin To Net: NetName=GND Pin=U3-S2
+Added Pin To Net: NetName=GND Pin=U3-S3
+Added Pin To Net: NetName=GND Pin=U3-S4
+Added Pin To Net: NetName=GND Pin=U3-V3
+Added Pin To Net: NetName=GND Pin=U4-B2A
+Added Pin To Net: NetName=GND Pin=U4-H3
+Added Pin To Net: NetName=GND Pin=U4-S1
+Added Pin To Net: NetName=GND Pin=U4-S2
+Added Pin To Net: NetName=GND Pin=U4-S3
+Added Pin To Net: NetName=GND Pin=U4-S4
+Added Pin To Net: NetName=GND Pin=U4-V3
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=JOY_SEL1 Pin=A1-7
+Added Pin To Net: NetName=JOY_SEL1 Pin=C15-2
+Added Pin To Net: NetName=JOY_SEL1 Pin=R8-2
+Added Pin To Net: NetName=JOY_SEL1 Pin=U4-B1A
+Added Net: Name=JOY_SEL1
+Added Pin To Net: NetName=JOY_SEL2 Pin=A1-8
+Added Pin To Net: NetName=JOY_SEL2 Pin=C14-2
+Added Pin To Net: NetName=JOY_SEL2 Pin=R4-2
+Added Pin To Net: NetName=JOY_SEL2 Pin=U3-B1A
+Added Net: Name=JOY_SEL2
+Added Pin To Net: NetName=JOY_X1 Pin=A1-22
+Added Pin To Net: NetName=JOY_X1 Pin=C13-1
+Added Pin To Net: NetName=JOY_X1 Pin=U4-H2
+Added Net: Name=JOY_X1
+Added Pin To Net: NetName=JOY_X2 Pin=A1-24
+Added Pin To Net: NetName=JOY_X2 Pin=C11-1
+Added Pin To Net: NetName=JOY_X2 Pin=U3-H2
+Added Net: Name=JOY_X2
+Added Pin To Net: NetName=JOY_Y1 Pin=A1-23
+Added Pin To Net: NetName=JOY_Y1 Pin=C12-1
+Added Pin To Net: NetName=JOY_Y1 Pin=U4-V2
+Added Net: Name=JOY_Y1
+Added Pin To Net: NetName=JOY_Y2 Pin=A1-25
+Added Pin To Net: NetName=JOY_Y2 Pin=C10-1
+Added Pin To Net: NetName=JOY_Y2 Pin=U3-V2
+Added Net: Name=JOY_Y2
+Added Pin To Net: NetName=MISO Pin=A1-14
+Added Pin To Net: NetName=MISO Pin=MD1-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MODE Pin=A1-20
+Added Pin To Net: NetName=MODE Pin=R9-2
+Added Pin To Net: NetName=MODE Pin=SW2-2
+Added Net: Name=MODE
+Added Pin To Net: NetName=MOSI Pin=A1-13
+Added Pin To Net: NetName=MOSI Pin=MD1-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R1-1
+Added Pin To Net: NetName=NetC4_1 Pin=U2-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD2_2 Pin=U1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q1-2
+Added Net: Name=NetLS1_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SW2-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=SW2-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=SCK Pin=A1-15
+Added Pin To Net: NetName=SCK Pin=MD1-5
+Added Net: Name=SCK
+Added Pin To Net: NetName=VR Pin=A1-21
+Added Pin To Net: NetName=VR Pin=VR1-2
+Added Net: Name=VR
+Added Class: Name=TX_V1_Schematic
+Added Room: Name=TX_V1_Schematic

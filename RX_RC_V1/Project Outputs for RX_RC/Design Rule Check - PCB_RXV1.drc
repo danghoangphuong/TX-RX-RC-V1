@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Phuong\Projects\DIY\TX_RX_RC\RX_RC\PCB_RXV1.PcbDoc
-Date     : 03/07/26
-Time     : 16:04:17
+Date     : 09/07/26
+Time     : 16:46:45
 
 Processing Rule : Clearance Constraint (Gap=0.7mm) (All),(All)
    Violation between Clearance Constraint: (0.616mm < 0.7mm) Between Pad A1-14(39.243mm,5.207mm) on Multi-Layer And Track (37.172mm,3.429mm)(50.673mm,3.429mm) on Bottom Layer 
@@ -32,6 +32,8 @@ Processing Rule : Clearance Constraint (Gap=0.7mm) (All),(All)
    Violation between Clearance Constraint: (0.064mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,50mm)(70mm,50mm) on Keep-Out Layer 
    Violation between Clearance Constraint: (0.064mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,50mm)(70mm,50mm) on Keep-Out Layer 
    Violation between Clearance Constraint: (0.064mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,50mm)(70mm,50mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.064mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,50mm)(70mm,50mm) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.064mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (0mm,50mm)(70mm,50mm) on Keep-Out Layer 
    Violation between Clearance Constraint: (0.41mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (1.905mm,21.082mm)(1.905mm,24.257mm) on Bottom Layer 
    Violation between Clearance Constraint: (0.524mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (1.905mm,21.082mm)(1.905mm,24.257mm) on Bottom Layer 
    Violation between Clearance Constraint: (0.41mm < 0.7mm) Between Region (0 hole(s)) Bottom Layer And Track (1.905mm,21.082mm)(2.54mm,20.447mm) on Bottom Layer 
@@ -48,7 +50,7 @@ Processing Rule : Clearance Constraint (Gap=0.7mm) (All),(All)
    Violation between Clearance Constraint: (0.547mm < 0.7mm) Between Track (36.83mm,15.24mm)(41.017mm,15.24mm) on Top Layer And Via (40.259mm,13.843mm) from Top Layer to Bottom Layer 
    Violation between Clearance Constraint: (0.497mm < 0.7mm) Between Track (41.91mm,14.097mm)(44.209mm,16.396mm) on Bottom Layer And Via (42.037mm,16.129mm) from Top Layer to Bottom Layer 
    Violation between Clearance Constraint: (0.497mm < 0.7mm) Between Track (41.91mm,14.097mm)(44.209mm,16.396mm) on Bottom Layer And Via (43.561mm,13.843mm) from Top Layer to Bottom Layer 
-Rule Violations :44
+Rule Violations :46
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -66,7 +68,10 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (
 Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
-Rule Violations :0
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-2(3mm,10mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-2(67mm,10mm) on Multi-Layer Actual Hole Size = 3mm
+   Violation between Hole Size Constraint: (3mm > 2.54mm) Pad Free-2(67mm,45mm) on Multi-Layer Actual Hole Size = 3mm
+Rule Violations :3
 
 Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -255,6 +260,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 212
+Violations Detected : 217
 Waived Violations : 0
 Time Elapsed        : 00:00:02

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=+3.3V Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=R1-1
+Added Pin To Net: NetName=+3.3V Pin=U2-2
+Added Pin To Net: NetName=+3.3V Pin=U2-4
+Added Room: Name=TX_V1_Schematic
