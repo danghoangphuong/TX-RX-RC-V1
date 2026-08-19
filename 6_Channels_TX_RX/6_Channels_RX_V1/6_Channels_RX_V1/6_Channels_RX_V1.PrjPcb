@@ -41,7 +41,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=6_Channels_TX_V1_Schematic.SchDoc
+DocumentPath=6_Channels_RX_V1_Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,10 +55,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FMRYLATA
+DocumentUniqueId=ULZKIOMS
 
 [Document2]
-DocumentPath=6_Channels_TX_V1_PCB.PcbDoc
+DocumentPath=6_Channels_RX_V1_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,11 +72,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WQUJYEYS
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 6_Channels_TX_V1\Design Rule Check - 6_Channels_TX_V1_PCB.html
-DItemRevisionGUID=
+DocumentUniqueId=DLMFEALF
 
 [Configuration1]
 Name=Sources
